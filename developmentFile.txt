@@ -1,0 +1,22 @@
+# GITHUB and version control 
+git init
+git add README.md
+git commit -m “first commit”
+git branch -M main
+git remote add origin [GitHub - 
+mustafah1/LaFosse_Academy_Personal_Projects: Github Repo 
+about](https://github.com/mustafah1/LaFosse_Academy_Personal_Projects.git)
+git push -u origin main
+
+
+
+
+`Main/Master` not to be edit consistently initially branches will be 
+created that can each be developed. Branches such as `Developer`, 
+`Features` 
+`Git Branch <name of branch>`  creates a branch
+`Git switch <name of branch> ` navigate between branches
+`Git merge <name of branch> ` join two branches
+Merge conflicts can be caused by joining two branches 
+`Git switch -m` change name of a branch. 
+
